@@ -9,7 +9,9 @@
 - web层：struts，spring-MVC
 - service层：spring
 - dao层：hibernate，mybatis，jdbcTemplate
+
   spring的<font color=red>核心</font>
+  
 - **IoC(控制反转)**Inverse of Control：
 - **AOP(面向切面)**：
 - [ ] spring优点：
