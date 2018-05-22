@@ -2,9 +2,10 @@
 
 * * *
 ## 1 Spring概述
-	开源，轻量级框架（轻量级：与EJB--Enterprise Java Beans对比，依赖资源少，销毁的资源少）。spring的核心是IoC（控制反转）和AOP(面向切面).
+	开源，轻量级框架（轻量级：与EJB--Enterprise Java Beans对比，依赖资源少，销毁的资源少）
+	spring的核心是IoC（控制反转）和AOP(面向切面).
 - [ ] 分层架构（一站式，每一层都提供解决方案）：
-![框架结构图](Hibernate-Spring-Struts/Spring/Images/structure.png)
+![框架结构图](https://github.com/ShaneHolmes/Hibernate-Spring-Struts/blob/master/Spring/Images/structure.png)
 - web层：struts，spring-MVC
 - service层：spring
 - dao层：hibernate，mybatis，jdbcTemplate
