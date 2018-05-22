@@ -11,7 +11,6 @@
 - dao层：hibernate，mybatis，jdbcTemplate
 
 <font color=red>spring的核心</font>
-
 - **IoC（控制反转)**Inverse of Control：
 - **AOP(面向切面)**：
 - [ ] spring优点：
