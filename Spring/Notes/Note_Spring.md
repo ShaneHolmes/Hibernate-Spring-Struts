@@ -27,7 +27,7 @@
 - 提供UserService接口和实现类
 - 获得UserService实现类的实例
 之前开发中，直接new一个对象即可。学习spring之后，将由Spring创建对象实例--> IoC 控制反转（Inverse of  Control）之后需要实例对象时，从spring工厂（容器）中获得，需要将实现类的全限定名称配置到xml文件中
-```
+```Java
 public interface UserService {
 	public void addUser();
 }
