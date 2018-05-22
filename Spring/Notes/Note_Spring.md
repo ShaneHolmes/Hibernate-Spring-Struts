@@ -12,7 +12,7 @@
 
   spring的<font color=red>核心</font>
   
-- **IoC(控制反转)**Inverse of Control：
+- IoC(控制反转)Inverse of Control：
 - **AOP(面向切面)**：
 - [ ] spring优点：
 - **高内聚，低耦合**：Spring就是一个大工厂（容器），可以将所有对象创建和依赖关系维护，交给Spring管理。spring工厂是用于生成bean
